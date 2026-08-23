@@ -14,7 +14,7 @@ Aku adalah seorang Web Developer yang passionate tentang coding dan teknologi.
 ## 🔗 Connect With Me
 - 💼 LinkedIn: Belom Dibuat
 - 🌐 Website: Maintenance
-- 📧 Email: your.michealammar55@gmail.com
+- 📧 Email: michealammar55@gmail.com
 
 ---
 ⭐ *Feel free to star and fork my repositories!*
