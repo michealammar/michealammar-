@@ -1,9 +1,9 @@
-# Hi there 👋
+# Hi Kamu 👋
 
-Saya adalah seorang **Developer** yang passionate tentang coding dan teknologi.
+Aku adalah seorang Web Developer yang passionate tentang coding dan teknologi.
 
 ## 🛠️ Tech Stack
-- **Language**: JavaScript, Python, Java
+- **Language**: HTML, CSS, JS & PHP
 - **Frontend**: React, Vue.js
 - **Backend**: Node.js, Express
 - **Database**: MongoDB, PostgreSQL
@@ -12,9 +12,9 @@ Saya adalah seorang **Developer** yang passionate tentang coding dan teknologi.
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=michealammar&show_icons=true&theme=radical)
 
 ## 🔗 Connect With Me
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com)
-- 🌐 Website: [Your Website](https://yourwebsite.com)
-- 📧 Email: your.email@gmail.com
+- 💼 LinkedIn: Belom Dibuat
+- 🌐 Website: Maintenance
+- 📧 Email: your.michealammar55@gmail.com
 
 ---
 ⭐ *Feel free to star and fork my repositories!*
